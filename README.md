@@ -75,9 +75,21 @@ dotnet publish -c Release -r win-x64 --self-contained true -p:PublishSingleFile=
 - .NET 8
 - Windows Runtime APIs
 
-## 📸 Screenshots
+## 📸 Preview
 
-Screenshots and demonstration GIFs will be added soon.
+### DynamicNotch in action
+
+![DynamicNotch Demo](assets/demo.gif)
+
+### Screenshots
+
+| Collapsed View | Expanded View |
+|---|---|
+| ![Collapsed](assets/screenshot-collapsed.png) | ![Expanded](assets/screenshot-expanded.png) |
+
+### Media Controls
+
+![Media Controls](assets/screenshot-media.png)
 
 ## 🗺️ Roadmap
 
